@@ -21,19 +21,7 @@ Skills Gained
 * Python Programming
 * Pandas, Matplotlib, and Seaborn
 
- Project Folder Structure
 
-Task-1-Iris-EDA
-│
-├── Iris_EDA.ipynb
-├── Iris.csv
-├── README.md
-│
-└── visualizations
-    ├── scatter_plot.png
-    ├── histogram.png
-    ├── box_plot.png
-    └── correlation_heatmap.png
 
                                            Task 2: Credit Risk Prediction
 
@@ -59,19 +47,7 @@ Skills Gained
 * Model Evaluation
 * Classification Techniques
 
-Project Folder Structure
-Task-2-Credit-Risk-Prediction
-│
-├── Credit_Risk_Prediction.ipynb
-├── loan_prediction.csv
-├── README.md
-├── confusion_matrix.png
-│
-└── visualizations
-    ├── income_distribution.png
-    ├── loan_amount_distribution.png
-    ├── education_distribution.png
-    └── loan_status_distribution.png
+
 
                                      Task 3: Customer Churn Prediction
 
@@ -98,20 +74,7 @@ Skills Gained
 * Feature Importance Analysis
 * Predictive Analytics
 
- Project Folder Structure
-Task-3-Customer-Churn-Prediction
-│
-├── Customer_Churn_Prediction.ipynb
-├── Churn_Modelling.csv
-├── README.md
-├── confusion_matrix.png
-├── feature_importance.png
-│
-└── visualizations
-    ├── churn_distribution.png
-    ├── geography_churn.png
-    ├── gender_churn.png
-    └── age_distribution.png
+
 
 Tools and Technologies Used
 
